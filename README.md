@@ -41,8 +41,8 @@ Instead of manually selecting dates one by one, this API allows you to query ava
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/amarnath-api.git
-cd amarnath-api
+git clone https://github.com/your-username/Amarnath_Yatra_Website_APIs.git
+cd Amarnath_Yatra_Website_APIs
 
 python -m venv venv
 venv\Scripts\activate   # Windows
