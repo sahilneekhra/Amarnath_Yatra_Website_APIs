@@ -1,4 +1,4 @@
-# Amarnath_Yatra_Website_APIs
+# amarnath-yatra-website-apis
 
 ## ⚠️ Disclaimer
 
@@ -54,8 +54,8 @@ GET https://amarnath-yatra-website-apis.onrender.com/availability?route=Baltal&s
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/Amarnath_Yatra_Website_APIs.git
-cd Amarnath_Yatra_Website_APIs
+git clone https://github.com/your-username/amarnath-yatra-website-apis.git
+cd amarnath-yatra-website-apis
 
 python -m venv venv
 venv\Scripts\activate   # Windows
