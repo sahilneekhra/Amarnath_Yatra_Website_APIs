@@ -23,7 +23,7 @@ Instead of manually selecting dates one by one, this API allows you to query ava
 
 👉 https://amarnath-yatra-website-apis.onrender.com/docs
 
-### Example
+# Example
 
 GET https://amarnath-yatra-website-apis.onrender.com/availability?route=Baltal&start=2026-08-04&end=2026-08-14
 ---
