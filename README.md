@@ -1,5 +1,19 @@
 # Amarnath_Yatra_Website_APIs
 
+## ⚠️ Disclaimer
+
+This project is an **unofficial, personal project** and is **not affiliated with, endorsed by, or connected to the Shri Amarnath Shrine Board**.
+
+It accesses publicly available data from the official website and is intended **strictly for educational use**.
+
+- This is **not an official API**
+- Do not rely on it for critical decisions
+- Please avoid excessive automated requests that may impact the source website
+
+The developer is not responsible for any misuse or inaccuracies in the data.
+
+---
+
 A FastAPI-based service that checks **live slot availability** for the Amarnath Yatra by reverse-engineering the official website.
 
 Instead of manually selecting dates one by one, this API allows you to query availability across a **date range** programmatically.
